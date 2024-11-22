@@ -2,7 +2,7 @@
 {
   "name": "Living Room 1",
   "hasDevicePluggedIn": true,
-  "connectedDevice": 00001,
+  "connectedDevice": 1,
   "connectedDevicePriority": 1,
 },
   {
@@ -14,7 +14,7 @@
   {
   "name": "Fridge",
   "hasDevicePluggedIn": true,
-  "connectedDevice": 00002,
+  "connectedDevice": 2,
   "connectedDevicePriority": 4,
 }
 ]
