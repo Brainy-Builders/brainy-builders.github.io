@@ -1,0 +1,20 @@
+[
+{
+  "name": "Living Room 1",
+  "hasDevicePluggedIn": true,
+  "connectedDevice": 00001,
+  "connectedDevicePriority": 1,
+},
+  {
+  "name": "Living Room 2",
+  "hasDevicePluggedIn": false,
+  "connectedDevice": 0,
+  "connectedDevicePriority": 0,
+},
+  {
+  "name": "Fridge",
+  "hasDevicePluggedIn": true,
+  "connectedDevice": 00002,
+  "connectedDevicePriority": 4,
+}
+]
