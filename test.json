@@ -1,20 +1,29 @@
 [
 {
   "name": "Living Room 1",
+  "id": 10001,
   "hasDevicePluggedIn": true,
   "connectedDevice": 1,
   "connectedDevicePriority": 1
 },
   {
   "name": "Living Room 2",
+  "id": 3013023,
   "hasDevicePluggedIn": false,
   "connectedDevice": 0,
   "connectedDevicePriority": 0
 },
   {
   "name": "Fridge",
+  "id": 2039432,
   "hasDevicePluggedIn": true,
   "connectedDevice": 2,
   "connectedDevicePriority": 4
-}
+},
+  {
+    "name": "Outdoor Patio 1",
+    "id": 39495334,
+    "haseDevicePluggedIn": true,
+    "connectedDevice": 3,
+    "connectedDevicePriority": 3
 ]
